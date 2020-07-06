@@ -2,6 +2,8 @@
 
 Visit Live site: https://05-03-flexbox-flexing-adventure-kento.netlify.com/
 
+# Assignment Overview:
+
 Now that we have learned the power of flexbox we will apply it to the sites we
 are building. We'll also go back to a past assignment and see how flexbox would
 simplify our HTML and CSS.
